@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "my-expo-app",
-    "slug": "my-expo-app",
+    "slug": "todo-taksu",
     "version": "1.0.0",
     "web": {
       "favicon": "./assets/favicon.png"
@@ -19,7 +19,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
@@ -27,7 +29,14 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
+      },
+      "package": "com.mahesawp.todotaksu"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0f8d8a8d-b34b-4212-a575-28d885ee05c4"
       }
-    }
+    },
+    "owner": "mahesawp"
   }
 }
