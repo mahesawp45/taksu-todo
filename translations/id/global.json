@@ -1,22 +1,22 @@
 {
-  "auth": {
-    "login": {
-      "nameLabel": "Name",
-      "namePlaceHolder": "Your name",
-      "nameRequired": "Name required!"
+    "auth": {
+        "login": {
+            "nameLabel": "Nama",
+            "namePlaceHolder": "Nama Anda",
+            "nameRequired": "Nama wajib diisi!"
+        }
+    },
+    "general": {
+        "next": "Lanjut",
+        "save": "Simpan",
+        "cancel": "Batal"
+    },
+    "todo": {
+        "newTodo": "Todo Baru",
+        "titleLabel": "Judul",
+        "titlePlaceholder": "Judul todo",
+        "titleError": "Judul wajib diisi!",
+        "dueDateLabel": "Tanggal Jatuh Tempo",
+        "dueDateError": "Tanggal jatuh tempo wajib diisi!"
     }
-  },
-  "general": {
-    "next": "Next",
-    "save": "Save",
-    "cancel": "Cancel"
-  },
-  "todo": {
-    "newTodo": "New Todo",
-    "titleLabel": "Title",
-    "titlePlaceholder": "Title todo",
-    "titleError": "Title required!",
-    "dueDateLabel": "Due Date",
-    "dueDateError": "Due Date required!"
-  }
 }
