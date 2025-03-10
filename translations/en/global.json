@@ -1,0 +1,22 @@
+{
+  "auth": {
+    "login": {
+      "nameLabel": "Name",
+      "namePlaceHolder": "Your name",
+      "nameRequired": "Name required!"
+    }
+  },
+  "general": {
+    "next": "Next",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "todo": {
+    "newTodo": "New Todo",
+    "titleLabel": "Title",
+    "titlePlaceholder": "Title todo",
+    "titleError": "Title required!",
+    "dueDateLabel": "Due Date",
+    "dueDateError": "Due Date required!"
+  }
+}
